@@ -9,4 +9,4 @@ const divide = (a, b) => a / b;
 
 const mod = (a, b) => a / b;
 
-const has = (s) => s.includes("a");
+const has = (s) => s.includes("as");
