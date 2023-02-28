@@ -12,5 +12,5 @@ jobs:
           release-type: node
           package-name: release-please-action
           labels: |
-            No Notification
             autorelease:pending
+            No Notification
