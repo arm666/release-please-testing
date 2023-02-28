@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/arm666/release-please-testing/compare/v1.1.0...v1.2.0) (2023-02-28)
+
+
+### Features
+
+* find as ([ca4214b](https://github.com/arm666/release-please-testing/commit/ca4214b32b2b291a7398b259ec82b3ad7b3127b4))
+
 ## [1.1.0](https://github.com/arm666/release-please-testing/compare/v1.0.0...v1.1.0) (2023-02-28)
 
 
