@@ -7,4 +7,4 @@ const multiply = (a, b) => a * b;
 
 const divide = (a, b) => a / b;
 
-const mod = (a, b) => a % b;
+const mod = (a, b) => (a % b) / 2;
