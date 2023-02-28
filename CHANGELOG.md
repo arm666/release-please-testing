@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/arm666/release-please-testing/compare/v1.0.0...v1.1.0) (2023-02-28)
+
+
+### Features
+
+* add mod ([6ddbc7e](https://github.com/arm666/release-please-testing/commit/6ddbc7e2f69dbf269de49b9c11a2d146013da65d))
+
 ## 1.0.0 (2023-02-28)
 
 
