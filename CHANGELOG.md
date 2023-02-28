@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/arm666/release-please-testing/compare/v1.2.0...v1.2.1) (2023-02-28)
+
+
+### Bug Fixes
+
+* mod 23 ([286ddd1](https://github.com/arm666/release-please-testing/commit/286ddd14be22e6dd906b0b8eba7ae0e701408e04))
+
 ## [1.2.0](https://github.com/arm666/release-please-testing/compare/v1.1.0...v1.2.0) (2023-02-28)
 
 
