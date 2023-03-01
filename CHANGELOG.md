@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.3.0](https://github.com/arm666/release-please-testing/compare/v1.2.1...v1.3.0) (2023-03-01)
+
+
+### Features
+
+* add drawio.svg ([68a7360](https://github.com/arm666/release-please-testing/commit/68a73601f9533e32eacfd8e4e179ce854be67196))
+* change color ([f20a2d3](https://github.com/arm666/release-please-testing/commit/f20a2d3510c9198b24cee1c955eab1e932061f2a))
+
+
+### Bug Fixes
+
+* clean mod ([902885e](https://github.com/arm666/release-please-testing/commit/902885ea2608460a2802ddc3f7c71eccf50adfc3))
+* clean mod ([902885e](https://github.com/arm666/release-please-testing/commit/902885ea2608460a2802ddc3f7c71eccf50adfc3))
+* export drawio.svg ([#12](https://github.com/arm666/release-please-testing/issues/12)) ([201f79b](https://github.com/arm666/release-please-testing/commit/201f79b84aacbccf9faecdb04dd5bd03e9efe195))
+* image ([60a7fd4](https://github.com/arm666/release-please-testing/commit/60a7fd4a282caf721a213c792aa7c52d5d631f8e))
+
 ## [1.2.1](https://github.com/arm666/release-please-testing/compare/v1.2.0...v1.2.1) (2023-02-28)
 
 
