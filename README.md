@@ -2,5 +2,7 @@
 This is mermaid example
 --
 
+```mermaid
 flowchart TB
-Start --> Stop{Stop}
+    Start --> Stop{Stop}
+```
